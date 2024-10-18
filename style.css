@@ -52,7 +52,7 @@ body {
     object-fit: cover;
     color: var(--white-color);
     overflow: hidden;
-    background-color: #8a1000;
+    background-color: black;
 }
 
 p {
